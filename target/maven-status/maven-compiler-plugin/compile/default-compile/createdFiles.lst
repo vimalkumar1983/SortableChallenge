@@ -1,0 +1,11 @@
+com\sortable\SortableChallenge\Models\BidResult.class
+com\sortable\SortableChallenge\Models\ConfigFile.class
+com\sortable\SortableChallenge\Service\BidResultRequestService.class
+com\sortable\SortableChallenge\Models\Bidder.class
+com\sortable\SortableChallenge\Models\Site.class
+com\sortable\SortableChallenge\SortableChallenge$1.class
+com\sortable\SortableChallenge\SortableChallenge.class
+com\sortable\SortableChallenge\Models\Auction.class
+com\sortable\SortableChallenge\Controller\BidResultRequestController.class
+com\sortable\SortableChallenge\Models\Bid.class
+com\sortable\SortableChallenge\sortByUnit.class

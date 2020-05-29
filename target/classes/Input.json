@@ -1,0 +1,145 @@
+[
+    {
+        "site": "facebook.com",
+        "units": ["banner", "sidebar","topbar","bottombar"],
+        "bids": [
+            {
+                "bidder": "Bill",
+                "unit": "sidebar",
+                "bid": 50
+            },
+            {
+	            "bidder": "Mark",
+	            "unit": "sidebar",
+	            "bid": 60
+            },
+            {
+                "bidder": "Bill",
+                "unit": "sidebar",
+                "bid": 90
+            },
+            {
+                "bidder": "Steve",
+                "unit": "banner",
+                "bid": 70
+            },
+            {
+                "bidder": "Tim",
+                "unit": "banner",
+                "bid": 99
+            },
+            {
+                "bidder": "Tim",
+                "unit": "sidebar",
+                "bid": 30
+            },
+            {
+                "bidder": "July",
+                "unit": "sidebar",
+                "bid": 99
+            }]
+    },
+    {
+        
+        "site": "google.com",
+        "units": ["banner", "sidebar","topbar","bottombar"],
+        "bids": [
+            {
+                "bidder": "Bill",
+                "unit": "sidebar",
+                "bid": 50
+            },
+            {
+	            "bidder": "Mark",
+	            "unit": "sidebar",
+	            "bid": 60
+            },
+            {
+                "bidder": "Tom",
+                "unit": "sidebar",
+                "bid": 90
+            },
+            {
+                "bidder": "Steve",
+                "unit": "banner",
+                "bid": 30
+            },
+            {
+                "bidder": "Tim",
+                "unit": "banner",
+                "bid": 30
+            },
+            {
+                "bidder": "Tim",
+                "unit": "sidebar",
+                "bid": 30
+            },
+            {
+                "bidder": "July",
+                "unit": "sidebar",
+                "bid": 99
+            }]
+    },
+    {
+        
+        "site": "sortable.com",
+        "units": ["banner", "sidebar","topbar","bottombar"],
+        "bids": [
+            {
+                "bidder": "Bill",
+                "unit": "sidebar",
+                "bid": 50
+            },
+            {
+	            "bidder": "Mark",
+	            "unit": "sidebar",
+	            "bid": 60
+            },
+            {
+                "bidder": "Thor",
+                "unit": "sidebar",
+                "bid": 90
+            },
+            {
+                "bidder": "Steve",
+                "unit": "banner",
+                "bid": 70
+            },
+            {
+                "bidder": "Tim",
+                "unit": "banner",
+                "bid": 50
+            },
+            {
+                "bidder": "Tim",
+                "unit": "sidebar",
+                "bid": 30
+            },
+            {
+                "bidder": "July",
+                "unit": "sidebar",
+                "bid": 99
+            }]
+    },
+    {
+        "site": "houseofcheese.com",
+        "units": ["banner", "sidebar"],
+        "bids": [
+            {
+                "bidder": "AUCT",
+                "unit": "banner",
+                "bid": 35
+            },
+            {
+                "bidder": "BIDD",
+                "unit": "sidebar",
+                "bid": 60
+            },
+            {
+                "bidder": "AUCT",
+                "unit": "sidebar",
+                "bid": 55
+            }
+        ]
+    }
+]

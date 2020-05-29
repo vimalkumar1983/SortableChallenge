@@ -1,0 +1,58 @@
+{
+    "sites": [
+        {
+            "name": "facebook.com",
+            "bidders": ["Bill", "Mark", "Steve","Tim"],
+            "floor": 40
+       },
+        {
+            "name": "sortable.com",
+            "bidders": ["Bill", "Mark", "Adam","Tom", "Larry"],
+            "floor": 40
+        },
+        {
+            "name": "google.com",
+            "bidders": ["Bill", "Mark", "Adam","Tom", "Steve", "Tim"],
+            "floor": 40
+        },
+        {
+            "name": "houseofcheese.com",
+            "bidders": ["AUCT", "BIDD"],
+            "floor": 32
+        }
+   	],
+    "bidders": [
+        {
+            "name": "Bill",
+            "adjustment": -0.07
+        },
+        {
+            "name": "Mark",
+            "adjustment": -0.03
+        },
+        {
+            "name": "Adam",
+            "adjustment": 0.02
+        },
+        {
+            "name": "Tom",
+            "adjustment": 0.05
+        },
+        {
+            "name": "Larry",
+            "adjustment": -0.05
+        },
+        {
+            "name": "Steve",
+            "adjustment": -0.07
+        },
+        {
+            "name": "AUCT",
+            "adjustment": -0.0625
+        },
+        {
+            "name": "BIDD",
+            "adjustment": 0
+        }
+    ]
+}
